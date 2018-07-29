@@ -1,0 +1,3 @@
+hello Git
+
+We need to learn Git well..... I am proficient in the TFSVC but Git is imp.
